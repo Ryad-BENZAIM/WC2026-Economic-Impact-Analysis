@@ -1,0 +1,11 @@
+city,host_state,matches_hosted,pct_below_forecast,performance_status,notes,source
+Kansas City,Missouri,6,90,Critical,Worst performing market - below typical Jun/Jul baseline levels,AHLA May 2026 / Front Office Sports
+Dallas,Texas,6,70,Poor,70% of hoteliers below expectations - large stadium but domestic demand only,AHLA May 2026
+Houston,Texas,5,70,Poor,Same trend as Dallas - regional domestic market,AHLA May 2026
+Seattle,Washington,5,65,Poor,Below expectations - Canada border proximity diluted hotel spend,IDeaS Revenue Management
+Boston,Massachusetts,5,45,Moderate,Better existing tourism baseline partially offset WC underperformance,IDeaS Revenue Management
+Los Angeles,California,7,35,Moderate,SoFi premium matches helped - some international demand,Front Office Sports / Fortune
+Atlanta,Georgia,6,30,Acceptable,Strong existing convention and tourism base - less dependent on WC,Front Office Sports
+Miami,Florida,5,20,Acceptable,Strong international leisure market - Third Place match boost,Front Office Sports
+New York / New Jersey,New York,7,15,Good,Final city - unique global demand - best performing US market,Front Office Sports / Fortune Jun 2026
+AVERAGE ALL US HOST CITIES,All,,80,Poor,80% of US host city hotels below initial booking forecasts,American Hotel and Lodging Association (AHLA) May 2026

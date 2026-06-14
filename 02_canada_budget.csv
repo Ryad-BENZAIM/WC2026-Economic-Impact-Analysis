@@ -1,0 +1,14 @@
+entity,city,cost_category,cost_usd_m,cost_usd_m_low,cost_usd_m_high,games_hosted,source
+City of Vancouver + BC Province,Vancouver,Total Gross Cost,707,685,729,7,BC Government May 2026 / Business in Vancouver
+City of Vancouver,Vancouver,City Share,329,320,338,7,Business in Vancouver Jun 2026
+BC Province + City,Vancouver,Safety & Security,242,242,242,7,BC Government May 29 2026
+BC Place Stadium,Vancouver,Stadium Upgrade & Operations,182,178,185,7,BC Government Jun 2025 updated 2026
+City of Toronto,Toronto,Total Gross Cost,380,380,380,6,City of Toronto Budget Document 2026
+City of Toronto,Toronto,Operating Costs,226,226,226,6,BudgetTO 2026 FIFA Background File
+City of Toronto,Toronto,Capital Costs,154,154,154,6,BudgetTO 2026 FIFA Background File
+Federal Government,Both,Total Federal,473,473,473,13,Parliamentary Budget Officer (PBO) May 2026
+Federal - Canadian Heritage,Both,Operations Support,220,220,220,13,PBO Report May 2026 / CBC News
+Federal - Public Safety Canada,Both,Security,145,145,145,13,Federal announcement Apr 2026 / CBC News
+Federal - RCMP,Both,Security Operations,79,79,79,13,PBO Report May 2026
+Federal - Other Agencies,Both,Border / Immigration / Other,29,29,29,13,PBO Report May 2026
+ALL GOVERNMENTS COMBINED,Both,TOTAL CANADA,1066,1066,1066,13,Parliamentary Budget Officer (PBO) May 2026
